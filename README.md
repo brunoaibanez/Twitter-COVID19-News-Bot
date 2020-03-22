@@ -1,6 +1,10 @@
 # Hack covid from home 
 
-URL hackathon: https://livehfh.hackersatupc.org/#/faq
+With the aim to give a useful tool to select relevant COVID-19 information, we develop a streaming tweet filtering engine.
+
+We apply data analysis techniques and storage systems such as streaming processing (Spark-Streaming), artificial intelligence (Natural Language Processing) and non-relational databases (MongoDB). To gather all data and feed our operating system we used the Twitter Developers' API. We worked with conversational software (auditory and textual methods) for the user interface. Everything was deployed and orchestrated on the cloud.
+
+Hack Covid From Home --> https://lnkd.in/gRhekgx
 
 ## Veracidad en tiempos de coronavirus
 
@@ -29,5 +33,8 @@ Al acabar la conversación, se le enviará al usuario un pequeño report sobre s
 
 ![report](/img/report.jpeg)
 
-![report](/img/c1.jpeg)
-![report](/img/c2.jpeg)
+Ejemplo de streaming news:
+
+![c1](/img/c1.jpeg)
+
+![c2](/img/c2.jpeg)
